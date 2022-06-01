@@ -34,7 +34,7 @@ input {
   width: 364px;
   height: 582px;
   background-color: #17171c;
-  border-radius: 7px;
+  border-radius: 15px;
   padding: 21px 18px 25px 20px;
   -webkit-box-shadow: 0px 0px 17px 14px rgba(34, 60, 80, 0.13);
   -moz-box-shadow: 0px 0px 17px 14px rgba(34, 60, 80, 0.13);
